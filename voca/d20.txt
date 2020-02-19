@@ -1,0 +1,60 @@
+classify:분류하다
+grant:승인하다, 보조금
+redeem:만회하다, 청산하다
+assign:할당하다, 부과하다
+modify:수정하다
+unveil:공개하다, 발표하다
+commend:칭찬하다, 추천하다
+initiate:개시하다, 착수하다
+relieve:안도하게하다, 완화하다
+contingency:만일의 사태
+flexibility:유연성, 적응성
+indicator:지표, 표시
+justification:정당성, 타당한 이유
+lessen: 줄이다, 완화시키다
+delinquent:연체된, 체납된
+initiative:진취성, 주도권, (사회적)운동
+immense:엄청난
+conceive:생각해내다
+exaggerate:과장하다
+concentration:집중, 농도
+feasibility:실현가능성
+inception:시작, 개시하다
+exemplary:모범적인, 본보기가 되는
+reputation:명성
+specification:설명서, 세부 사항
+distinguished:유명한, 기품 있는
+illegible:읽기 불가능한, 판독이 어려운
+fragile:깨지기 쉬운, 손상되기 쉬운
+interactive:상호적인
+obsolete:구식의, 한물간
+relevant:관련 있는, 적절한
+specific:구체적인, 특정한
+unanimous:만장일치의
+comprehensive:포괄적인, 종합적인
+exempt:~이 면제되는(from)
+orderly:정돈된, 질서 있는
+rigorous:철저한, 엄격한
+spacious:(공간이)넓은
+upcoming:다가오는, 곧 있을
+comparable:비교할 만한, 필적하는
+overhaul:점검, 정비, 점검하다
+arbitrarily:독단적으로
+lapse:실수, 과실, 소멸하다
+versatile:다재다능한, 다용도의
+accordingly:부응해서, 그에따라
+consequently:따라서, 그 결과
+dramatically:극적으로
+eventually:결국에는
+meticulously:꼼꼼하게
+relatively:비교적, 상대적으로
+strategically:전략적으로
+consistently:지속적으로, 일관하여
+eloquently:유창하게, 웅변으로
+exceedingly:극도로, 대단히
+haphazardly:우연히, 무턱대고
+moderately:적절히
+provisionally:잠정적으로, 임시로
+temporarily:일시적으로
+adversely:반대로, 불리하게
+enormously:대단히, 상당히
