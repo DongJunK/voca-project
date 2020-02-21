@@ -1,5 +1,45 @@
-obligate:구식의, 한물간
 desire:욕구, 갈망, 원하다, 바라다
 mutually:서로, 상호간에
 expert:전문가, 전문가의, 전문적인
-illustrate:설명하다, 도해를 넣다competent:유능한, 능숙한
+illustrate:설명하다, 도해를 넣다competent
+comparable:비교할 만한, 필적하는
+initiate:개시하다, 착수하다
+relevant:관련 있는, 적절한
+unveil:공개하다, 발표하다
+solicit:요청하다, 간청하다
+corrosion:부식
+envision:(장래의 일 등을)계획하다, 상상하다
+fluctuation:변동, 불안정
+fraction:일부, 작은 부분
+accomplished:숙련된, 노련한
+inquiry:문의, 질문
+compatible:호환되는, 양립할 수 있는
+obligate:구식의, 한물간
+assign:할당하다, 부과하다
+extend:연장하다, (기간을)늘리다, 주다
+complicated:복잡한
+exceedingly:극도로, 대단히
+lessen: 줄이다, 완화시키다
+desire:욕구, 갈망, 원하다, 바라다
+versatile:다재다능한, 다용도의
+consequently:따라서, 그 결과
+enormously:대단히, 상당히
+meticulously:꼼꼼하게
+provisionally:잠정적으로, 임시로
+accurate:정확한
+sufficiently:충분히
+maneuver:조종하다, 움직이다
+exempt:~이 면제되는(from)
+properly:제대로, 정확하게
+distinguished:유명한, 기품 있는
+mutually:서로, 상호간에
+orderly:정돈된, 질서 있는
+dramatically:극적으로
+implication:암시, 함축, 영향
+spare:아끼다,할애하다
+consumption:소비(량),소모
+commend:칭찬하다, 추천하다
+alter:고치다, 바꾸다
+exclusively:오로지, 독점적으로
+relieve:안도하게하다, 완화하다
+accumulate:축적하다

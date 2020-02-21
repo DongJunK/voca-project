@@ -1,60 +1,60 @@
-allocate:할당하다, 배정하다
-certify:인증하다, 확신시키다
-designate:임명하다, 지정하다
 solicit:요청하다, 간청하다
 endorse:홍보하다, 지지하다
-cordially:진심으로, 정중히
 illustrate:설명하다, 도해를 넣다
-obligate:구식의, 한물간
-offset:상쇄하다
-secure:확보하다, ~을 고정시키다, 안전한
 specify:상세히 말하다, 구체화하다
-streamline:간소화하다, 능률적으로 하다
-rationale:이유, 근거
-maneuver:조종하다, 움직이다
-novice:초보자
-monopoly:독점(권), 전매
-fluctuation:변동, 불안정
-fraction:일부, 작은 부분
-implication:암시, 함축, 영향
 ratio:비율, 비례
-consumption:소비(량),소모
-fabric:섬유, 천
 acceptable:용인되는, 받아들일 수 있는, 훌륭한, 만족스러운
 desire:욕구, 갈망, 원하다, 바라다
-redeemable:교환할 수 있는, 환급할 수 있는
-officially:공식적으로
-clearance:정리, 없애다, 허가
 alter:고치다, 바꾸다
-mutually:서로, 상호간에
-method:방식, 방법
 relatively:상대적으로
 spare:아끼다,할애하다
 exclusively:오로지, 독점적으로
-description:(제품 등의)설명, 해석
 carefully:주의 깊게, 신중히
 subscriber:가입자, 구독자
-experienced:경험이 있는, 노련한, 능숙한
 leisurely:여유로운, 한가한
-expert:전문가, 전문가의, 전문적인
 warranty:(품질 등의)보증, 보증서
-precaution:예방조치, 예방책
-processing:가공, 처리
 capacity:용량, 수용(량)
-specification:설명서, 사양
 properly:제대로, 정확하게
-accumulate:축적하다
 corrosion:부식
-compatible:호환되는, 양립할 수 있는
-superior:우수한, 상급의
-complicated:복잡한
-accomplished:숙련된, 노련한
-inquiry:문의, 질문
-indication:징후, 조짐
-accurate:정확한
-sufficiently:충분히
 patent:특허, 특허권, 특허품
 envision:(장래의 일 등을)계획하다, 상상하다
-extend:연장하다, (기간을)늘리다, 주다
-innovative:혁신적인
+implication:암시, 함축, 영향
+allocate:할당하다, 배정하다
+accumulate:축적하다
+officially:공식적으로
+sufficiently:충분히
+fluctuation:변동, 불안정
+novice:초보자
+precaution:예방조치, 예방책
+fraction:일부, 작은 부분
+superior:우수한, 상급의
+streamline:간소화하다, 능률적으로 하다
+indication:징후, 조짐
+accomplished:숙련된, 노련한
 feature:특징, 특색
+designate:임명하다, 지정하다
+processing:가공, 처리
+innovative:혁신적인
+specification:설명서, 사양
+experienced:경험이 있는, 노련한, 능숙한
+complicated:복잡한
+rationale:이유, 근거
+maneuver:조종하다, 움직이다
+description:(제품 등의)설명, 해석
+accurate:정확한
+inquiry:문의, 질문
+offset:상쇄하다
+expert:전문가, 전문가의, 전문적인
+cordially:진심으로, 정중히
+compatible:호환되는, 양립할 수 있는
+extend:연장하다, (기간을)늘리다, 주다
+monopoly:독점(권), 전매
+method:방식, 방법
+fabric:섬유, 천
+redeemable:교환할 수 있는, 환급할 수 있는
+obligate:구식의, 한물간
+clearance:정리, 없애다, 허가
+consumption:소비(량),소모
+mutually:서로, 상호간에
+secure:확보하다, ~을 고정시키다, 안전한
+certify:인증하다, 확신시키다

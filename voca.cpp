@@ -58,10 +58,9 @@ void voca::test(){
             continue;
         }
         if(ins=='5') break;
-        
-        if(file_path == "./voca/dontkonw.txt"){
+        if(file_path == "./voca/dontknow.txt"){
             if(ins == '1'){
-                cout<<english.at(i).first<<" 못 외운 단어장에서 삭제"<<endl;
+                cout<<english.at(i).first<<" 못 외운 단어장에서 삭제"<<endl<<endl;
                 english.erase(english.begin() + i);
             }else{
                 cout<<"뜻 = "<<english.at(i).second<<endl;

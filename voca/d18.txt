@@ -1,0 +1,60 @@
+indicate:보여주다, 나타내다
+attract:끌다, 유인하다
+experience:경험, 체험
+subscribe:구독하다
+absence:부재, 결근, 결석
+means:방법, 수단
+advantage:이점, 강점
+forward:앞으로, 보내다, 전송하다
+contemporary:동시대의, 현대의, 당대의
+steadily:착실하게, 꾸준히
+necessarily:반드시
+resolve:(문제 등을)해결하다
+detect:간파하다, 탐사하다
+unlimited:무제한의
+indulge:빠지다, 탐닉하다
+proximity:가까움, 근접함
+ship:운송하다, 수송하다
+suitcase:여행가방
+customs:세관
+confuse:혼란시키다
+outgoing:외향적인, (지위를)떠나는
+tightly:단단히, 꽉
+customarily:관례상, 습관적으로
+declare:(세관에서)신고하다
+specify:명시하다
+itinerary:여행 일정
+exotic:이국적인, 매혹적인
+diverse:다양한
+superb:최고의, 뛰어난
+disclose:공개하다, 드러내다
+seriously:진지하게
+reflect:반영하다, 나타내다
+attitude:태도, 마음가짐
+inquire:문의하다, 질문하다
+insert:삽입하다
+combine:결합하다
+priority:우선권, 우선사항
+observe:관찰하다, 준수하다, 지키다
+applaud:~에게 박수를 보내다
+biography:약력, 전기
+critical:비판적인, 중요한, 위기의
+commentary:해설, 설명
+interact:소통하다, 교류하다, 상호 작용을 하다
+confident:자신 있는
+specific:구체적인, 명확한
+courteous:예의 바른
+infuriate:화나게 하다, 격분시키다
+argumentative:논쟁적인, 논쟁을 좋아하는
+chemical:화학제품
+trim:다듬다, 없애다, 삭감하다
+separately:개별적으로, 따로따로
+expiration:(기간, 임기 등의)만류, 만기
+broaden:넓히다
+economize:절약하다, 아끼다
+flexible:융통성 있는, 유연한
+comparable:필적하는, 비교되는
+tailored:맞춤의, 주문에 따라 맞춘
+component:부품, (구성)요소
+assemble:(부품, 기계 등을)조립하다, (사람을)모으다
+utilize:이용하다, 활용하다
