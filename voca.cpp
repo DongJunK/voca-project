@@ -53,7 +53,7 @@ void voca::test(){
             --i;
             continue;
         }
-        if(ins=='4'){
+        if(ins=='4'&&0<i){
             i-=2;
             continue;
         }
@@ -62,6 +62,7 @@ void voca::test(){
             if(ins == '1'){
                 cout<<english.at(i).first<<" 못 외운 단어장에서 삭제"<<endl<<endl;
                 english.erase(english.begin() + i);
+                --i;
             }else{
                 cout<<"뜻 = "<<english.at(i).second<<endl;
             }
