@@ -64,7 +64,7 @@ void voca::test(){
         }
         else if(ins == '1'){
             continue;
-        }else if(ins == '0'){
+        }else if(ins == '2'){
             cout<<"뜻 = "<<english.at(i).second<<endl;
             write_dont_know_file(i);
         }else{
