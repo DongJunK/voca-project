@@ -42,7 +42,7 @@ void voca::test(){
         pair<string,string> word;
         word = english.at(i);
         cout<<word.first<<endl;
-        cout<<"알면 = 1, 모르면 = 2, 뜻 확인 = 3, 뒤로가기 = 4 그만 = 5 입력 : ";
+        cout<<"알면 = 1, 모르면 = 2, 뜻 확인 = 3, 뒤로가기 = 4, 그만 = 5 입력 : ";
         char ins;
         cin>> ins;
         cin.ignore();
