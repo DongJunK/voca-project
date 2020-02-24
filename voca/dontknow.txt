@@ -1,2 +1,301 @@
-sufficiently:충분히
+probable:개연성이 높은, 유망한
+modify:수정하다
+concentration:집중, 농도
+comparable:비교할 만한, 필적하는
+arbitrarily:독단적으로
+accordingly:부응해서, 그에따라
+haphazardly:우연히, 무턱대고
+temporarily:일시적으로
+adversely:반대로, 불리하게
+contingency:만일의 사태
+exempt:~이 면제되는(from)
+initiate:개시하다, 착수하다
+exceedingly:극도로, 대단히
+specification:설명서, 세부 사항
+strategically:전략적으로
+consequently:따라서, 그 결과
+consistently:지속적으로, 일관하여
+flexibility:유연성, 적응성
+indicator:지표, 표시
+obsolete:구식의, 한물간
+delinquent:연체된, 체납된
+justification:정당성, 타당한 이유
+unveil:공개하다, 발표하다
+unanimous:만장일치의
+enormously:대단히, 상당히
+moderately:적절히
+immense:엄청난
+conceive:생각해내다
+ratio:비율, 비례
+acceptable:용인되는, 받아들일 수 있는, 훌륭한, 만족스러운
+subscriber:가입자, 구독자
+leisurely:여유로운, 한가한
+warranty:(품질 등의)보증, 보증서
+capacity:용량, 수용(량)
+corrosion:부식
+envision:(장래의 일 등을)계획하다, 상상하다
 accumulate:축적하다
+fraction:일부, 작은 부분
+streamline:간소화하다, 능률적으로 하다
+accomplished:숙련된, 노련한
+innovative:혁신적인
+complicated:복잡한
+rationale:이유, 근거
+accurate:정확한
+inquiry:문의, 질문
+cordially:진심으로, 정중히
+method:방식, 방법
+fabric:섬유, 천
+obligate:구식의, 한물간
+clearance:정리, 없애다, 허가
+mutually:서로, 상호간에
+subscribe:구독하다
+indulge:빠지다, 탐닉하다
+suitcase:여행가방
+combine:결합하다
+infuriate:화나게 하다, 격분시키다
+economize:절약하다, 아끼다
+flexible:융통성 있는, 유연한
+component:부품, (구성)요소
+courteous:예의 바른
+absence:부재, 결근, 결석
+utilize:이용하다, 활용하다
+experience:경험, 체험
+applaud:~에게 박수를 보내다
+expiration:(기간, 임기 등의)만류, 만기
+assemble:(부품, 기계 등을)조립하다, (사람을)모으다
+customarily:관례상, 습관적으로
+resolve:(문제 등을)해결하다
+steadily:착실하게, 꾸준히
+customs:세관
+inquire:문의하다, 질문하다
+disclose:공개하다, 드러내다
+alumni:동창생들, 졸업생들
+admission:입장
+rest:휴식을 취하다, 휴식, 나머지
+subscription:(정기 발행물의)구독
+refund:환불, 환불금
+note:주목하다, 특별히 언급하다
+competition:경쟁
+advanced:고급의, 진보한, 앞선
+examine:조사하다
+effective:효과적인, 발효되는, 시행되는
+very:매우, 대단히, 아주
+affect:~에 영향을 미치다
+probable:개연성이 높은, 유망한
+celebrity:유명 인사, 명사
+strategy:전략
+aim:~을 겨누다, 목표, 목적
+aggressively:적극적으로
+informative:유익한, 정보를 주는
+comparison:비교
+expectation:예상, 기대
+gap:격차
+instantly:즉각적으로, 즉시
+accompany:동반하다,동행하다
+issue:(출판물의)호, 문제, 쟁점
+beneficial:유익한, 이로운
+anonymous:익명의
+spectifically:명확하게, 분명히, 구체적으로
+preference:선호(도)
+predict:예측하다
+alleviate:완화하다
+clearly:명확하게
+expense:비용, 지출
+designate:지명하다, 지정하다
+designated:지정된
+unanimously:만정일치로
+obtain:획득하다, 얻다
+detour:우회(로)
+fare:교통요금
+reserved:예약된, 지정된
+securely:단단하게, 튼튼하게
+tow:견인하다
+transit:교통, 수송
+congestion:(교통)체증, 혼잡
+appoint:임명하다, 지명하다
+fund-raising:모금
+broaden:넓히다
+comparable:필적하는, 비교되는
+radically:급진적으로, 철저히, 완전히
+nomination:임명, 지명, 후보
+indicate:보여주다, 나타내다
+ongoing:진행 중인
+diverse:다양한
+obstruct:(전망 등을)가리다, (도로 등을)막다
+solicit:요청하다, 간청하다
+redeem:만회하다, 청산하다
+overdue:(지출, 반납)기한이 지난
+relatively:비교적, 상대적으로
+prominently:두드러지게
+fascinating:매혹적인, 황홀한
+itinerary:여행 일정
+regrettably:유감스럽게도
+rigorous:철저한, 엄격한
+feasibility:실현가능성
+specific:구체적인, 명확한
+unlimited:무제한의
+intersection:교차로
+means:방법, 수단
+monopoly:(상품의)독점, 전매
+marginal:약간의, 주변의
+upcoming:곧 있을, 다가오는
+compatible:호환되는, 양립할 수 있는
+relieve:안도하게하다, 완화하다
+exemplary:모범적인, 본보기가 되는
+reorganize:재편성하다
+trim:다듬다, 없애다, 삭감하다
+congratulate:축하하다
+expert:전문가, 전문가의, 전문적인
+deliberation:숙고, 신중함
+seriously:진지하게
+impact:영향, 충격
+spare:아끼다,할애하다
+head:(~의 방향으로)나아가다
+critical:비판적인, 중요한, 위기의
+superior:우수한, 상급의
+precaution:예방조치, 예방책
+endorse:홍보하다, 지지하다
+comprehensive:포괄적인, 종합적인
+redeemable:교환할 수 있는, 환급할 수 있는
+priority:우선권, 우선사항
+allocate:할당하다, 배정하다
+edition:(간행물의)판, 호
+transfer:보내다, 전근시키다
+delinquent:(세금)연체된
+detect:간파하다, 탐사하다
+distinguished:유명한, 기품 있는
+pass:지나가다, 통과하다
+exaggerate:과장하다
+biography:약력, 전기
+confident:자신 있는
+postpone:연기하다, 뒤로 미루다
+chemical:화학제품
+attitude:태도, 마음가짐
+classify:분류하다
+performance:실적, 성과, 공연
+consumption:소비(량),소모
+defy:저항하다
+secure:확보하다, ~을 고정시키다, 안전한
+publicize:공표하다, 광고하다, 선전하다
+illegible:읽기 불가능한, 판독이 어려운
+serve:일하다
+interactive:상호적인
+respondent:응답자
+versatile:다재다능한, 다용도의
+sufficiently:충분히
+authentic:진정한, 진짜의, 진품의
+resignation:사직, 사직서
+alter:고치다, 바꾸다
+advantage:이점, 강점
+deposit:입금하다, 임금, 보증금
+accomplishment:성과, 업적
+closely:면밀히, 엄밀히
+strictly:엄격히
+evaluate:평가하다
+divert:우회시키다
+indication:징후, 조짐
+insert:삽입하다
+tightly:단단히, 꽉
+mounting:증가하는, 오르는
+especially:특히
+reserve:예약하다, 지정하다, 보존하다
+designate:임명하다, 지정하다
+progress:진행, 진전
+appreciation:감사
+relevant:관련 있는, 적절한
+description:(제품 등의)설명, 해석
+novice:초보자
+balance:잔고, 균형
+contemporary:동시대의, 현대의, 당대의
+demand:수요, 요구하다
+manuscript:원고
+provisionally:잠정적으로, 임시로
+experienced:경험이 있는, 노련한, 능숙한
+forward:앞으로, 보내다, 전송하다
+resume:재개하다, 이력서
+argumentative:논쟁적인, 논쟁을 좋아하는
+lapse:실수, 과실, 소멸하다
+advocate:옹호자
+initiative:진취성, 주도권, (사회적)운동
+encouragement:격려
+reward:보상하다, 포상, 보상
+confuse:혼란시키다
+declare:(세관에서)신고하다
+implication:암시, 함축, 영향
+trust:신뢰, 신임, 믿다, 신뢰하다
+competent:유능한, 능숙한
+upcoming:다가오는, 곧 있을
+analysis:분석
+superb:최고의, 뛰어난
+illustrate:설명하다, 도해를 넣다
+inexperienced:경험 없는, 미숙한
+fine:벌금
+eventually:결국에는
+maneuver:조종하다, 움직이다
+exceptional:뛰어난, 훌륭한
+specify:상세히 말하다, 구체화하다
+banquet:연회, 만찬
+fluctuation:변동, 불안정
+praise:칭찬, 칭찬하다
+present:제시하다, 현재의, 참석한
+dramatically:극적으로
+improvise:(연주, 연설 등을)즉흥적으로 하다
+carefully:주의 깊게, 신중히
+exotic:이국적인, 매혹적인
+antique:골동품
+donation:기증, 기부
+lessen: 줄이다, 완화시키다
+reverse:뒤의, 반대의
+grant:승인하다, 보조금
+separately:개별적으로, 따로따로
+monopoly:독점(권), 전매
+seasonal:계절의, 계절적인
+proximity:가까움, 근접함
+officially:공식적으로
+relatively:상대적으로
+eloquently:유창하게, 웅변으로
+appraisal:평가
+desire:욕구, 갈망, 원하다, 바라다
+overhaul:점검, 정비, 점검하다
+observe:관찰하다, 준수하다, 지키다
+assign:할당하다, 부과하다
+collision:충돌
+skilled:노련한, 숙련된
+ship:운송하다, 수송하다
+patent:특허, 특허권, 특허품
+interact:소통하다, 교류하다, 상호 작용을 하다
+commute:통근하다
+commend:칭찬하다, 추천하다
+reflect:반영하다, 나타내다
+spacious:(공간이)넓은
+reputation:명성
+tailored:맞춤의, 주문에 따라 맞춘
+outgoing:외향적인, (지위를)떠나는
+offset:상쇄하다
+properly:제대로, 정확하게
+specific:구체적인, 특정한
+contributor:기고가, 공헌자
+installment:할부, 설치
+dismiss:해임하다, 해고하다
+orderly:정돈된, 질서 있는
+promote:승진시키다, 판촉활동하다
+specification:설명서, 사양
+fragile:깨지기 쉬운, 손상되기 쉬운
+extend:연장하다, (기간을)늘리다, 주다
+necessarily:반드시
+exclusively:오로지, 독점적으로
+feature:특징, 특색
+certify:인증하다, 확신시키다
+consistently:항상, 일관되게
+mandatory:의무적인
+malfunction:오작동, 기능 불량, 오작동 일으키다
+expand:확장하다, 확대하다
+attract:끌다, 유인하다
+specify:명시하다
+commentary:해설, 설명
+meticulously:꼼꼼하게
+inception:시작, 개시하다
+processing:가공, 처리
+exhibition:전시(회)
+reflective:반영하는

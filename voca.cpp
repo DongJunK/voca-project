@@ -63,8 +63,12 @@ void voca::test(){
                 cout<<english.at(i).first<<" 못 외운 단어장에서 삭제"<<endl<<endl;
                 english.erase(english.begin() + i);
                 --i;
-            }else{
+            }else if(ins=='2'){
                 cout<<"뜻 = "<<english.at(i).second<<endl;
+            }else{
+                cout<<"잘못 입력했습니다."<<endl;
+                --i;
+                continue;
             }
         }
         else if(ins == '1'){

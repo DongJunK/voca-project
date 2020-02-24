@@ -1,60 +1,60 @@
-exhibition:전시(회)
-celebrity:유명 인사, 명사
 improvise:(연주, 연설 등을)즉흥적으로 하다
-donation:기증, 기부
 alumni:동창생들, 졸업생들
 present:제시하다, 현재의, 참석한
 admission:입장
-banquet:연회, 만찬
 rest:휴식을 취하다, 휴식, 나머지
-fund-raising:모금
 resume:재개하다, 이력서
-issue:(출판물의)호, 문제, 쟁점
 subscription:(정기 발행물의)구독
-accompany:동반하다,동행하다
-edition:(간행물의)판, 호
-spectifically:명확하게, 분명히, 구체적으로
-anonymous:익명의
 refund:환불, 환불금
 authentic:진정한, 진짜의, 진품의
-installment:할부, 설치
-informative:유익한, 정보를 주는
 note:주목하다, 특별히 언급하다
-antique:골동품
-manuscript:원고
-beneficial:유익한, 이로운
 upcoming:곧 있을, 다가오는
-advocate:옹호자
 contributor:기고가, 공헌자
-defy:저항하다
 fascinating:매혹적인, 황홀한
-analysis:분석
 respondent:응답자
-monopoly:(상품의)독점, 전매
 competition:경쟁
 consistently:항상, 일관되게
-demand:수요, 요구하다
-expand:확장하다, 확대하다
 advanced:고급의, 진보한, 앞선
-postpone:연기하다, 뒤로 미루다
 examine:조사하다
 effective:효과적인, 발효되는, 시행되는
-especially:특히
-closely:면밀히, 엄밀히
 reserve:예약하다, 지정하다, 보존하다
 very:매우, 대단히, 아주
-expectation:예상, 기대
-publicize:공표하다, 광고하다, 선전하다
 affect:~에 영향을 미치다
 probable:개연성이 높은, 유망한
 seasonal:계절의, 계절적인
 impact:영향, 충격
-comparison:비교
-gap:격차
-mounting:증가하는, 오르는
 reflective:반영하는
+analysis:분석
+mounting:증가하는, 오르는
+celebrity:유명 인사, 명사
+donation:기증, 기부
 marginal:약간의, 주변의
-instantly:즉각적으로, 즉시
-aggressively:적극적으로
-aim:~을 겨누다, 목표, 목적
+advocate:옹호자
+defy:저항하다
+fund-raising:모금
 strategy:전략
+aim:~을 겨누다, 목표, 목적
+aggressively:적극적으로
+edition:(간행물의)판, 호
+informative:유익한, 정보를 주는
+exhibition:전시(회)
+especially:특히
+publicize:공표하다, 광고하다, 선전하다
+antique:골동품
+comparison:비교
+expectation:예상, 기대
+banquet:연회, 만찬
+installment:할부, 설치
+gap:격차
+expand:확장하다, 확대하다
+demand:수요, 요구하다
+instantly:즉각적으로, 즉시
+postpone:연기하다, 뒤로 미루다
+closely:면밀히, 엄밀히
+manuscript:원고
+accompany:동반하다,동행하다
+monopoly:(상품의)독점, 전매
+issue:(출판물의)호, 문제, 쟁점
+beneficial:유익한, 이로운
+anonymous:익명의
+spectifically:명확하게, 분명히, 구체적으로

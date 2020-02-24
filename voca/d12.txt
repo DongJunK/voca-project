@@ -1,60 +1,60 @@
 exceptional:뛰어난, 훌륭한
-appreciation:감사
 preference:선호(도)
 predict:예측하다
-progress:진행, 진전
-nomination:임명, 지명, 후보
 resignation:사직, 사직서
-congestion:(교통)체증, 혼잡
 alleviate:완화하다
-malfunction:오작동, 기능 불량, 오작동 일으키다
 clearly:명확하게
-commute:통근하다
-transit:교통, 수송
 expense:비용, 지출
 trust:신뢰, 신임, 믿다, 신뢰하다
 head:(~의 방향으로)나아가다
-fine:벌금
-pass:지나가다, 통과하다
-prominently:두드러지게
-tow:견인하다
-delinquent:(세금)연체된
-performance:실적, 성과, 공연
 deposit:입금하다, 임금, 보증금
 reorganize:재편성하다
-competent:유능한, 능숙한
 appraisal:평가
 reverse:뒤의, 반대의
 overdue:(지출, 반납)기한이 지난
-congratulate:축하하다
-collision:충돌
-dismiss:해임하다, 해고하다
-inexperienced:경험 없는, 미숙한
 deliberation:숙고, 신중함
 praise:칭찬, 칭찬하다
-regrettably:유감스럽게도
-obtain:획득하다, 얻다
-ongoing:진행 중인
-detour:우회(로)
-reserved:예약된, 지정된
-reward:보상하다, 포상, 보상
-designated:지정된
 skilled:노련한, 숙련된
 designate:지명하다, 지정하다
-unanimously:만정일치로
-appoint:임명하다, 지명하다
 obstruct:(전망 등을)가리다, (도로 등을)막다
-promote:승진시키다, 판촉활동하다
-evaluate:평가하다
-fare:교통요금
-strictly:엄격히
 mandatory:의무적인
 encouragement:격려
-intersection:교차로
 balance:잔고, 균형
-transfer:보내다, 전근시키다
 serve:일하다
 divert:우회시키다
-securely:단단하게, 튼튼하게
 radically:급진적으로, 철저히, 완전히
+fine:벌금
+designated:지정된
+regrettably:유감스럽게도
+promote:승진시키다, 판촉활동하다
+malfunction:오작동, 기능 불량, 오작동 일으키다
+prominently:두드러지게
+nomination:임명, 지명, 후보
+delinquent:(세금)연체된
+competent:유능한, 능숙한
+unanimously:만정일치로
+transfer:보내다, 전근시키다
+commute:통근하다
+obtain:획득하다, 얻다
 accomplishment:성과, 업적
+strictly:엄격히
+detour:우회(로)
+ongoing:진행 중인
+progress:진행, 진전
+inexperienced:경험 없는, 미숙한
+fare:교통요금
+congratulate:축하하다
+evaluate:평가하다
+appreciation:감사
+reserved:예약된, 지정된
+securely:단단하게, 튼튼하게
+pass:지나가다, 통과하다
+dismiss:해임하다, 해고하다
+intersection:교차로
+collision:충돌
+tow:견인하다
+transit:교통, 수송
+performance:실적, 성과, 공연
+reward:보상하다, 포상, 보상
+congestion:(교통)체증, 혼잡
+appoint:임명하다, 지명하다
